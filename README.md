@@ -1,8 +1,8 @@
 ## Pizza Town Pizza Restaurant
-Welcome to Juicy Chem Pizza Restaurant! This React application showcases our delicious pizza menu, allowing customers to view our offerings and place orders online.
+Welcome to Pizza Town  Pizza Restaurant! This React application showcases our delicious pizza menu, allowing customers to view our offerings and place orders online.
 
 ## Introduction
-Juicy Chem Pizza Restaurant is a React application built to display our authentic Italian cuisine menu. With a variety of creative dishes prepared in our stone oven using organic ingredients, we aim to provide a delightful dining experience for pizza lovers.
+Pizza Town  Pizza Restaurant is a React application built to display our authentic Italian cuisine menu. With a variety of creative dishes prepared in our stone oven using organic ingredients, we aim to provide a delightful dining experience for pizza lovers.
 
 ## Screeshot
 ![Restaurant-Menu4](https://github.com/Pro-shanto06/Restaurant_Menu/assets/123327841/7421718c-cc77-4523-a00c-fb4d6ee9bbce)
@@ -14,7 +14,7 @@ Place orders online during our opening hours.
 Responsive design for seamless browsing on different devices.
 
 ## Installation
-To run the Juicy Chem Pizza Restaurant locally on your machine, follow these steps:
+To run the Pizza Town Pizza Restaurant locally on your machine, follow these steps:
 1. **Clone the repository:**
   ```bash
    git clone https://github.com/Pro-shanto06/Restaurant_Menu.git
